@@ -1,0 +1,31 @@
+parameters:
+  # artifacts path
+  artifacts:
+    TRAINING_MODELS: artifacts/models/training_models/
+    BEST_BY_VALIDATION_MODELS: artifacts/models/best_val/
+    LAST_EPOCH_MODELS: artifacts/models/last_epoch/
+    FINALIZED_MODELS: trained_model/
+    PREDICTED_LABELS: artifacts/predicted labels for test data/
+
+  # below are configs for dataset.
+  dataset_path:
+    DATASET_ROOT: dataset/xrays database/
+    CLASS1_PATH: dataset/xrays database/1 root/
+    CLASS2_PATH: dataset/xrays database/2 or more roots/
+    TEST_PATH: dataset/xrays database/test/
+
+  # below are configs for dataset.
+  dataset_augmentation:
+    FLIP_UPSIDE_DOWN: True
+    FLIP_LEFT_TO_RIGHT: True
+    AUGMENT_TRAIN: True
+    AUGMENT_VAL: False
+    AUGMENT_TEST: False
+
+  # below are configs for dataset.
+  dataset_split:
+    SEED: 3
+
+  # below are configs for dataset.
+  dataset_normalization:
+    NORMALIZE_PIXEL_VALUES: True

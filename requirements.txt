@@ -1,0 +1,44 @@
+absl-py==0.9.0
+h5py==2.10.0
+idna==2.9
+importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1602263269022/work
+iniconfig @ file:///home/conda/feedstock_root/build_artifacts/iniconfig_1603384189793/work
+joblib @ file:///tmp/build/80754af9/joblib_1601912903842/work
+Keras==2.3.1
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.0
+matplotlib @ file:///C:/ci/matplotlib-base_1603356257853/work
+mkl-fft==1.1.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+mock @ file:///D:/bld/mock_1602395119602/work
+more-itertools @ file:///home/conda/feedstock_root/build_artifacts/more-itertools_1604071731434/work
+numpy==1.18.1
+oauthlib==3.1.0
+olefile==0.46
+opt-einsum==3.1.0
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1589925210001/work
+pandas @ file:///C:/ci/pandas_1602088205210/work
+path @ file:///D:/bld/path_1605223156006/work
+Pillow @ file:///C:/ci/pillow_1603821929285/work
+pluggy @ file:///D:/bld/pluggy_1603384461566/work
+protobuf==3.12.3
+py @ file:///home/conda/feedstock_root/build_artifacts/py_1593088446458/work
+pyasn1==0.4.8
+pyasn1-modules==0.2.7
+pycparser==2.20
+PyJWT==1.7.1
+pytest==6.1.2
+pytest-shutil==1.7.0
+python-dateutil==2.8.1
+pytz==2020.1
+PyYAML==5.3.1
+scikit-learn @ file:///C:/ci/scikit-learn_1598376983131/work
+scipy==1.4.1
+seaborn @ file:///tmp/build/80754af9/seaborn_1600553570093/work
+six==1.15.0
+tensorboard==2.2.1
+tensorboard-plugin-wit==1.6.0
+tensorflow==2.1.0
+tensorflow-estimator==2.1.0
+tqdm @ file:///tmp/build/80754af9/tqdm_1605303662894/work
